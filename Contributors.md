@@ -20,6 +20,7 @@
 - [Gonzalo Briceno](https://ghbcode.github.io/website)
 - [Oyetunmibi Oyinkansola](https://github.com/oyin-k)
 - [MikeyForYou](https://github.com/MikeyForYou)
+- [Evans Ansong](https://github.com/evans646/)
 - [George Zhao](https://github.com/zhaogeorge3)
 - [Chiraag Gohel](https://github.com/chi-raag)
 - [Neutrix](https://github.com/NeuTrix) 
